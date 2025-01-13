@@ -2,7 +2,7 @@
 
 ## Background Information
 
-Brain diseases like alzheimer, tramumatic injury, and psychiatric disorders (schizophrenia: reduced gray matter, depression: alteration in the hippocampus) may pose some structural changes or potential damage on the brain tissue. At this point, eurodegenerative diseases comes into the forefront. In this case, predicting the age of a patient from their brain MRI scan can be used as a promising biomarker for early and subtle brain changes.
+Brain diseases like alzheimer, tramumatic injury, and psychiatric disorders (schizophrenia: reduced gray matter, depression: alteration in the hippocampus) may pose some structural changes or potential damage on the brain tissue. At this point, neurodegenerative diseases comes into the forefront. In this case, predicting the age of a patient from their brain MRI scan can be used as a promising biomarker for early and subtle brain changes.
 
 The difference between predicted brain age and actual chronological age is called as ***brain age gap***. When predicted value is significantly larger than real body age, it is concluded that brain characteristics of that person are older than his/her biology, which is called ***accelerated aging***. In that case, that person is expected to go through one of those brain diseases. In contrast, certain lifestyle factors or protective genetic traits can slow down brain aging and even keep it lower than chronological age.
 
