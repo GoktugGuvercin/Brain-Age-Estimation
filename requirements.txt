@@ -7,3 +7,6 @@ argparse==1.1
 scipy==1.13.1
 scikit-learn==1.6.0
 torch==2.2.2
+tqdm==4.67.1
+scikit-image==0.25.2
+tensorboard==2.19.0
